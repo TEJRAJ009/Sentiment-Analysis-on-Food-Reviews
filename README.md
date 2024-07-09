@@ -1,6 +1,7 @@
 # Sentiment Analysis on Food Reviews
 
 **Welcome to the Sentiment Analysis on Food Reviews project repository!**
+![image](https://github.com/TEJRAJ009/Sentiment-Analysis-on-Food-Reviews/assets/109360486/a18ede6f-34b9-4f28-a8e0-3ab241e7a0ee)
 
 ## Objectives
 
